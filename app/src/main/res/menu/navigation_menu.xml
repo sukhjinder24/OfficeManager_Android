@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/allEmpItem"
+            android:title="All Employees" />
+        <item
+            android:id="@+id/allTasksItem"
+            android:title="All Tasks" />
+        <item
+            android:id="@+id/addEmpsItem"
+            android:title="Add Employee" />
+        <item
+            android:id="@+id/addTasksItem"
+            android:title="Add Tasks" />
+
+    </group>
+
+    <item android:title="Remove Employee/Task">
+        <menu>
+            <item
+                android:id="@+id/remove"
+                android:title="Remove" />
+        </menu>
+    </item>
+    <item android:title="My Profile">
+        <menu>
+            <item
+                android:id="@+id/user_view"
+                android:title="User View" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backGround"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Remove"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/ed_ids"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Enter ID to be removed"
+        android:inputType="number"
+        android:textColor="@color/textColor"
+        android:textColorHint="@color/grey" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+
+        android:onClick="removeEmployee"
+        android:text="Remove Employee"
+        android:textSize="15sp"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+
+        android:onClick="removeTask"
+        android:text="Remove Task"
+        android:textSize="15sp"
+
+        />
+
+</LinearLayout>
+
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Add Employee"-->
+    <!--android:onClick="addEmployee"-->
+    <!--android:textSize="15sp"-->
+    <!--android:background="@color/colorPrimary"-->
+
+    <!--    />-->
+    <!--<Button-->
+    <!--android:id="@+id/assignTask"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Assign Task"-->
+    <!--android:onClick="assignTask"-->
+
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="15sp"-->
+    <!--android:background="@color/colorPrimary"-->
+
+    <!--    />-->
+    <!--<Button-->
+    <!--android:id="@+id/empList"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Employees List"-->
+    <!--android:onClick="empList"-->
+
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="15sp"-->
+    <!--android:background="@color/colorPrimary"-->
+
+    <!--    />-->
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Task List"-->
+    <!--android:onClick="taskList"-->
+
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="15sp"-->
+    <!--android:background="@color/colorPrimary"-->
+
+    <!--    />-->

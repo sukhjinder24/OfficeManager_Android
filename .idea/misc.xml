@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/btn_back.xml" value="0.152" />
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/edit_text_border.xml" value="0.2195" />
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/graded.xml" value="0.163" />
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/list_item_bg.xml" value="0.1595" />
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/my_editbox_bg.xml" value="0.157" />
+        <entry key="..\:/NewProjects/app/src/main/res/drawable/round_corner.xml" value="0.1595" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_add_emp.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_admin_ui.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_assign_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_employee_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_employee_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_remove.xml" value="0.23854166666666668" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_salary_calacilator.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_task_detail.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_task_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_update_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/activity_user_ui.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/add_emp.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/add_emp_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/add_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/add_task_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/all_emp_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/all_task_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/fragment_add_emp.xml" value="0.264" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/fragment_add_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/fragment_all_emp.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/fragment_all_emps.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/fragment_all_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/frame.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/image_loader.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/image_upload.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/item_emp.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/item_employee.xml" value="0.264" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/item_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/profile_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/rec_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/spinner_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/layout/update_profile_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewProjects/app/src/main/res/menu/navigation_menu.xml" value="0.264" />
+        <entry key="..\:/NewProjects/app/src/main/res/xml/network_security_config.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
